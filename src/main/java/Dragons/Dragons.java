@@ -4,9 +4,11 @@ public class Dragons {
     private String name;
     private int age;
     private int weigth;
-    // private static typeD type;
+    private  typeD type;
 
-    public Dragons (String name, int age, int weigth){}
+
+
+    public Dragons (String name, int age, int weigth, typeD type){}
     public void setName (String name) {
         this.name = name;
     }
@@ -16,25 +18,23 @@ public class Dragons {
     public void setWeigth(int weigth) {
         this.weigth = weigth;
     }
+    public void setType (typeD type) {
+        this.type = type;
+    }
 
-   // public void setType(typeD type) {
-    //    this.type = type;
-  //  }
 
     public String getName() {
         return name;
     }
-
     public int getAge() {
         return age;
     }
-
     public int getWeigth() {
         return weigth;
     }
-  //  public enum getType(){
- //       return type;
-  //  }
+    public typeD getType() {
+        return type;
+    }
 
     @Override
     public String toString() {
@@ -42,6 +42,7 @@ public class Dragons {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", weigth=" + weigth +
+                ", type=" + type +
                 '}';
     }
 }
