@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4f252fea-afc5-4e07-8099-6bf39f0985ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/Dragons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dragons/Dragons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dragon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/Dragons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/Mal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/typeD.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,15 +100,6 @@
           <url>jar:///Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JComponent.java</url>
           <line>1066</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Dragons/Mal.java</url>
-          <line>32</line>
-          <properties class="Mal" method="actionPerformed">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
