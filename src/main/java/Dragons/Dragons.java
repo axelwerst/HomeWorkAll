@@ -8,7 +8,12 @@ public class Dragons {
 
 
 
-    public Dragons (String name, int age, int weigth, typeD type){}
+    public Dragons (String name, int age, int weigth, typeD type) {
+        this.type = type;
+        this.age = age;
+        this.weigth = weigth;
+        this.name = name;
+    }
     public void setName (String name) {
         this.name = name;
     }

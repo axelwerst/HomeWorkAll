@@ -7,7 +7,6 @@
     <list default="true" id="4f252fea-afc5-4e07-8099-6bf39f0985ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/Dragons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dragons/Dragons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dragons/typeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dragons/typeD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Mal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mal.executor&quot;: &quot;Debug&quot;,
     &quot;Application.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;15102024&quot;,

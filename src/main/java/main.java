@@ -20,13 +20,13 @@ public class main {
         int age = me.nextInt();
         System.out.println("Скільки важить твій Дракон?");
         int weigth = me.nextInt();
-        Scanner cs = new Scanner(System.in);
+//        Scanner cs = new Scanner(System.in);
         System.out.println("а що вміє твій Дракон? flame or fly?");
-        String sp = cs.nextLine();
+        String sp = me.next();
 
         Dragons newDragons = new Dragons(name, age, weigth, TD);
-        //Dragons newDragons = new Dragons("Osiris", 154, 578, typeD.Amphithere);
-        // System.out.print(newDragons);
+//        Dragons newDragons = new Dragons("Osiris", 154, 578, typeD.Amphithere);
+         System.out.print(newDragons);
 
 
         boolean o ;
